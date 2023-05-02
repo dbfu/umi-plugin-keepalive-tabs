@@ -1,7 +1,7 @@
 {
   "name": "umi-plugin-keepalive-tabs",
   "author": "876809592@qq.com",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "main": "dist/cjs/index.js",
   "types": "dist/cjs/index.d.ts",
   "scripts": {
